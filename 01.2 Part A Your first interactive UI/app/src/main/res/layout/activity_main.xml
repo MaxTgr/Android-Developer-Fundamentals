@@ -39,6 +39,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
+        android:textAlignment="center"
         android:id="@+id/show_count"
         android:layout_width="0dp"
         android:layout_height="0dp"
