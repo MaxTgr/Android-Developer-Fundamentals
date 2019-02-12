@@ -43,7 +43,7 @@ Then in the other activity you return the data with:
 replyIntent.putExtra(EXTRA_REPLY, "requested text!");
 setResult(RESULT_OK,replyIntent);
 ```
-where RESULT_OK is a static value given from the activity
+where RESULT_OK is a static value given from the Android Activity (native)
 
 then in the main activity you override the function `onActivityResult`
 
