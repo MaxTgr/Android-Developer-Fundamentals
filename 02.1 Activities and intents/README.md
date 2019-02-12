@@ -1,4 +1,4 @@
-# Manifest inheritance
+# Activity inheritance
 
 For the correct using of the "back" button a inheritance system should be used in the manifest:
 
