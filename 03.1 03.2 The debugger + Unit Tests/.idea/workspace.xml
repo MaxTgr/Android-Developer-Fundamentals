@@ -34,8 +34,8 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="281">
+              <caret line="43" column="66" lean-forward="false" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
+            <state relative-caret-position="646">
               <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding>
                 <element signature="e#2072#2073#0" expanded="true" />
@@ -60,18 +60,8 @@
       <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-27/android/view/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="24802" column="0" lean-forward="false" selection-start-line="24802" selection-start-column="0" selection-end-line="24802" selection-end-column="0" />
+            <state relative-caret-position="662">
+              <caret line="111" column="37" lean-forward="true" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -2108,11 +2098,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java" />
         <option value="$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="912" />
     <option name="y" value="1" />
     <option name="width" value="974" />
@@ -2271,7 +2262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.java in app (4)">
+  <component name="RunManager" selected="Android JUnit.java in app (2)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2337,7 +2328,7 @@
       <dir value="$PROJECT_DIR$/app/src/test/java" />
       <patterns />
     </configuration>
-    <configuration name="java in app (3)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="java in app (4)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="app" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -2358,7 +2349,7 @@
       <dir value="$PROJECT_DIR$/app/src/test/java" />
       <patterns />
     </configuration>
-    <configuration name="java in app (4)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="java in app (5)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="app" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -2513,19 +2504,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Android App.app" />
-      <item index="1" class="java.lang.String" itemvalue="Android JUnit.java in app" />
-      <item index="2" class="java.lang.String" itemvalue="Android JUnit.java in app (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Android JUnit.java in app (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Android JUnit.java in app (3)" />
-      <item index="5" class="java.lang.String" itemvalue="Android JUnit.java in app (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Android JUnit.java in app (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Android JUnit.java in app (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Android JUnit.java in app" />
+      <item index="4" class="java.lang.String" itemvalue="Android JUnit.java in app (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Android JUnit.java in app (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Android JUnit.java in app (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Android JUnit.java in app (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Android JUnit.java in app (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Android JUnit.java in app (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Android JUnit.java in app" />
+        <item index="0" class="java.lang.String" itemvalue="Android JUnit.java in app (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Android JUnit.java in app (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Android JUnit.java in app" />
+        <item index="3" class="java.lang.String" itemvalue="Android JUnit.java in app (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Android JUnit.java in app (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -2549,26 +2540,23 @@
     <history-entry file="java_in_app - 2019.02.24 at 14h 50m 41s.xml">
       <configuration name="java in app" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="java_in_app_(1) - 2019.02.24 at 14h 39m 21s.xml">
-      <configuration name="java in app (1)" configurationId="AndroidJUnit" />
+    <history-entry file="java_in_app - 2019.02.24 at 15h 09m 18s.xml">
+      <configuration name="java in app" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="java_in_app_(1) - 2019.02.24 at 14h 51m 20s.xml">
       <configuration name="java in app (1)" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="java_in_app_(2) - 2019.02.24 at 14h 43m 16s.xml">
-      <configuration name="java in app (2)" configurationId="AndroidJUnit" />
+    <history-entry file="java_in_app_(1) - 2019.02.24 at 15h 12m 03s.xml">
+      <configuration name="java in app (1)" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="java_in_app_(2) - 2019.02.24 at 14h 53m 38s.xml">
       <configuration name="java in app (2)" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="java_in_app_(3) - 2019.02.24 at 14h 46m 32s.xml">
-      <configuration name="java in app (3)" configurationId="AndroidJUnit" />
+    <history-entry file="java_in_app_(2) - 2019.02.24 at 15h 13m 58s.xml">
+      <configuration name="java in app (2)" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="java_in_app_(3) - 2019.02.24 at 14h 56m 34s.xml">
       <configuration name="java in app (3)" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="java_in_app_(4) - 2019.02.24 at 14h 46m 47s.xml">
-      <configuration name="java in app (4)" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="java_in_app_(4) - 2019.02.24 at 14h 57m 35s.xml">
       <configuration name="java in app (4)" configurationId="AndroidJUnit" />
@@ -2576,9 +2564,12 @@
     <history-entry file="java_in_app_(5) - 2019.02.24 at 14h 47m 39s.xml">
       <configuration name="java in app (5)" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="java_in_app_(5) - 2019.02.24 at 14h 58m 38s.xml">
+      <configuration name="java in app (5)" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2588,8 +2579,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2616,13 +2607,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java</url>
-          <line>95</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
@@ -2647,14 +2631,6 @@
             <element signature="e#3205#3241#0" expanded="true" />
             <element signature="e#3980#4016#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2704,9 +2680,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="43" column="66" lean-forward="false" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
+        <state relative-caret-position="646">
           <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding>
             <element signature="e#2072#2073#0" expanded="true" />
@@ -2720,8 +2704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        <state relative-caret-position="662">
+          <caret line="111" column="37" lean-forward="true" selection-start-line="111" selection-start-column="37" selection-end-line="111" selection-end-column="37" />
           <folding />
         </state>
       </provider>
